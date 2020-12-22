@@ -6,7 +6,7 @@ function Footer() {
         <div className="page__footer">
             <p>&copy; Airbnb clone! No rights 
             reserved - this is only a demo!</p>
-            <p>Privacy Terms Sitemap Company Details</p>
+            <p>Privacy&nbsp;&nbsp;Terms&nbsp;&nbsp;Sitemap&nbsp;&nbsp;Company Details</p>
         </div>
     )
 }
