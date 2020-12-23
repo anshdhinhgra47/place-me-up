@@ -32,3 +32,5 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+> This is just a clone. All the images are the property of Airbnb. This is just a demo clone.
