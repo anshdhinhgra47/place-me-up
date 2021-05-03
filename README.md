@@ -1,5 +1,6 @@
 # Airbnb Clone
-Airbnb Clone designed using React and deployed to Firebase
+- Airbnb Clone designed using React and deployed to Firebase
+- Try it out here: https://airbnb-clone-67193.web.app
 
 
 ### Getting Started with Create React App
