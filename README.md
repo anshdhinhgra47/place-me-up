@@ -1,5 +1,5 @@
-# Airbnb Clone
-- Airbnb Clone designed using React and deployed to Firebase
+# Place Me Up
+- An Airbnb Clone designed using React and deployed to Firebase
 - Try it out here: https://airbnb-clone-67193.web.app
 
 
